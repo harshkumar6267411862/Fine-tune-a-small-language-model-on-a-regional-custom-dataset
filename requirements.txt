@@ -1,0 +1,10 @@
+torch
+transformers==4.40.0
+datasets
+accelerate
+streamlit
+matplotlib
+pandas
+scikit-learn
+ipykernel
+tqdm
